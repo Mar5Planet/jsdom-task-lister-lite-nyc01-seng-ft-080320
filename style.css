@@ -35,3 +35,34 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+.close {
+  color:black;
+  right: 0;
+  top: 0;
+  padding: 4px 3px;
+  margin-left: 10%;
+}
+
+.close:hover {
+  background-color: #e778bc;
+  color: white;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
+
+.date {
+  margin: 4%;
+  color: white;
+  font-size: 0.8rem;
+}
